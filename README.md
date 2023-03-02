@@ -1,4 +1,3 @@
-
 # MyPlugin
 ## Create your very first plugin for Minecraft
 
